@@ -7,7 +7,7 @@ fi
 echo ${VER}
 
 if [[ -z "${PASSWORD}" ]]; then
-  PASSWORD="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  PASSWORD="xynte"
 fi
 echo ${PASSWORD}
 
@@ -20,7 +20,7 @@ if [[ -z "${ProxySite}" ]]; then
 fi
 
 if [[ -z "${V2_Path}" ]]; then
-  V2_Path="/s233"
+  V2_Path="/xynte"
 fi
 echo ${V2_Path}
 
